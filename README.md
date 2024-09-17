@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+![MasterHead](https://user-images.githubusercontent.com/70807684/155598813-e68ec3a3-3c8a-4326-9fc3-899c6fd3d2cf.gif)
 <h1 align="center">Hi 👋, I'm Shrejal Upadhyay</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="310" style="border-radius: 50px; display: block;" src="https://blog.hyperiondev.com/wp-content/uploads/2021/01/Software_Engineering.gif">
